@@ -1,0 +1,8 @@
+.mainPage {
+  margin: 50px;
+}
+.mainPage__out {
+  margin-left: 10px;
+  color: dimgray;
+  cursor: pointer;
+}

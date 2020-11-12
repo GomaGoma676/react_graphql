@@ -1,0 +1,15 @@
+.auth {
+  text-align: center;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.auth__input {
+  margin: 10px;
+}
+.auth__toggle {
+  margin: 10px;
+  color: dimgray;
+  cursor: pointer;
+}

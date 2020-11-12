@@ -1,0 +1,15 @@
+.filterByName__search {
+  margin-top: 10px;
+  color: dimgray;
+  cursor: pointer;
+}
+.filterByName__list {
+  height: 300px;
+  overflow: hidden;
+  overflow-y: auto;
+}
+.filterByName__item {
+  display: flex;
+  justify-content: center;
+  padding-bottom: 5px;
+}
